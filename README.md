@@ -42,20 +42,20 @@ AlgoBuddy is a Telegram bot designed to help programmers quickly access code sam
    . Use the available commands to request code snippets for specific algorithms.
    . The bot will reply with formatted code snippets fetched from the GitHub repository.
    ## COMMANDS:
-   . /bfs: Get a code snippet for Breadth-First Search algorithm.
-   . /dfs: Get a code snippet for Depth-First Search algorithm.
-   . /dijkstra: Get a code snippet for Dijkstra's algorithm.
-   . /gcd: Get a code snippet for calculating the Greatest Common Divisor.
-   . /seive: Get a code snippet for the Sieve of Eratosthenes algorithm.
-   . /sliding: Get a code snippet for sliding window algorithms.
-   . /dj: Get a code snippet for Djikstra's algorithm.
-   . /dnf: Get a code snippet for the Dutch National Flag algorithm.
+   1. /bfs: Get a code snippet for Breadth-First Search algorithm.
+   2. /dfs: Get a code snippet for Depth-First Search algorithm.
+   3. /dj: Get a code snippet for Dijkstra's algorithm.
+   4. /gcd: Get a code snippet for calculating the Greatest Common Divisor.
+   5. /seive: Get a code snippet for the Sieve of Eratosthenes algorithm.
+   6. /sliding: Get a code snippet for sliding window algorithms.
+   7. /dnf: Get a code snippet for the Dutch National Flag algorithm.
+   8. /bs: Get a code snippet for the Binary Search algorithm.
 
 ## Dependencies
 
-.Telegraf: Telegram bot framework.
-. Axios: HTTP client for fetching code snippets.
-. Nodemon: Utility for automatically restarting the application during development.
+1. Telegraf: Telegram bot framework.
+2. Axios: HTTP client for fetching code snippets.
+3. Nodemon: Utility for automatically restarting the application during development.
 
 ## Contributing
 
