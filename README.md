@@ -38,9 +38,9 @@ AlgoBuddy is a Telegram bot designed to help programmers quickly access code sam
    npm start
    ```
    ## USAGE:
-   . Start a chat with the AlgoBuddy bot on Telegram.
-   . Use the available commands to request code snippets for specific algorithms.
-   . The bot will reply with formatted code snippets fetched from the GitHub repository.
+   1. Start a chat with the AlgoBuddy bot on Telegram.
+   2. Use the available commands to request code snippets for specific algorithms.
+   3. The bot will reply with formatted code snippets fetched from the GitHub repository.
    ## COMMANDS:
    1. /bfs: Get a code snippet for Breadth-First Search algorithm.
    2. /dfs: Get a code snippet for Depth-First Search algorithm.
