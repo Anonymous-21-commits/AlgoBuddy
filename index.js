@@ -6,7 +6,7 @@ const bot = new Telegraf(botToken);
 
 
 /*
-how to get the secreet bot token
+how to get the secret bot token
 -> Open Telegram -> BotFather
 -> to read instructions /start and enter
 -> to create a new bot /newbot and enter
